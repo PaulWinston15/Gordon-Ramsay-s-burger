@@ -33,3 +33,5 @@ It should be less than an inch in diameter if you are cooking under 10 mins.
 6. Once the bacon and patty (and onion) are cooked, keep your pan hot and shmear your buns with some butter and toast them on the pan for 1-2 minutes. Remove the bacon and patty and drain the excess oil and fat from your pan
 7. Mix your sauces together and assemble your burger. According to chef Ramsay, the perfect assembly of a burger is Bun, mayo, lettuce, (tomato), onions, burger, bacon, onions, mayo and topped by the bun.
 8. Finally, the most important step is to ENJOY!
+
+![Burger](https://github.com/user-attachments/assets/0065eb58-e963-4ab6-ac2f-fcac55bb9f55)
