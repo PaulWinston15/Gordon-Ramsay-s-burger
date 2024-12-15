@@ -1,5 +1,8 @@
 ALRIGHT, LISTEN UP, YOU FUCKING DONKEY!
 
+
+![Gordon Ramsay](https://github.com/user-attachments/assets/09cefda8-cf69-435c-b1eb-37535523f265)
+
 Follow this recipe to the exact steps to create a burger, worthy of Chef Ramsay's standards.
 [Link to the recipe](https://www.gordonramsay.com/gr/recipes/gordons-burger-in-10-minutes/)
 
