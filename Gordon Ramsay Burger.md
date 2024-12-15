@@ -34,4 +34,4 @@ It should be less than an inch in diameter if you are cooking under 10 mins.
 7. Mix your sauces together and assemble your burger. According to chef Ramsay, the perfect assembly of a burger is Bun, mayo, lettuce, (tomato), onions, burger, bacon, onions, mayo and topped by the bun.
 8. Finally, the most important step is to ENJOY!
 
-![Burger](https://github.com/user-attachments/assets/0065eb58-e963-4ab6-ac2f-fcac55bb9f55)
+
